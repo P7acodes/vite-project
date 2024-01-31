@@ -1,0 +1,38 @@
+[
+  {
+    "titre": "Breaking Bad",
+    "note": 9.5,
+    "url": "https://fr.web.img5.acsta.net/pictures/19/06/18/12/11/3956503.jpg"
+  },
+  {
+    "titre": "Game of Thrones",
+    "note": 9.3,
+    "url": "https://fr.web.img3.acsta.net/c_310_420/pictures/23/01/03/14/13/0717778.jpg"
+  },
+  {
+    "titre": "Friends",
+    "note": 8.9,
+    "url": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "titre": "Stranger Things",
+    "note": 8.8,
+    "url": "https://fr.web.img4.acsta.net/pictures/22/05/18/14/31/5186184.jpg"
+  },
+  { "titre": "The Office (US)", "note": 8.7, "url": "" },
+  { "titre": "The Crown", "note": 8.6, "url": "" },
+  { "titre": "The Mandalorian", "note": 8.5, "url": "" },
+  { "titre": "Black Mirror", "note": 8.4, "url": "" },
+  { "titre": "The Witcher", "note": 8.3, "url": "" },
+  { "titre": "Money Heist", "note": 8.2, "url": "" },
+  { "titre": "Narcos", "note": 8.1, "url": "" },
+  { "titre": "Sherlock", "note": 8.0, "url": "" },
+  { "titre": "Ozark", "note": 7.8, "url": "" },
+  { "titre": "The Simpsons", "note": 7.9, "url": "" },
+  { "titre": "House of Cards", "note": 7.8, "url": "" },
+  { "titre": "The Big Bang Theory", "note": 7.7, "url": "" },
+  { "titre": "Westworld", "note": 7.6, "url": "" },
+  { "titre": "Better Call Saul", "note": 7.5, "url": "" },
+  { "titre": "Fargo", "note": 7.4, "url": "" },
+  { "titre": "Peaky Blinders", "note": 7.3, "url": "" }
+]
